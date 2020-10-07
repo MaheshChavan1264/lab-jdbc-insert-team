@@ -1,5 +1,5 @@
 package model;
-
+//this is the comment
 public class City {
 	private Long cityid;
 	private String cityName;
